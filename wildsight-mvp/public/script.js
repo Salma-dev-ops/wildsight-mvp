@@ -7,7 +7,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // NDVI raster (semi-transparent)
-var ndvi = L.imageOverlay('amboseli_ndvi.png', 
+var ndvi = L.imageOverlay('ndvi_layer.png', 
   [[-2.9, 36.3], [-1.9, 37.3]],
   { opacity: 0.5 }
 ).addTo(map);
