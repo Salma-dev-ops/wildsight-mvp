@@ -1,0 +1,14 @@
+{
+  "name": "wildsight-mvp",
+  "version": "1.0.0",
+  "description": "WildSight AI MVP - NDVI + HWC Hotspots Web Map",
+  "main": "script.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
