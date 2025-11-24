@@ -39,3 +39,21 @@ By providing **actionable geographic intelligence**, **WildSight** can:
 3.  **Support KWS/KFS decision-making** with clear data visualizations.
 
 ---
+
+ 🤝 Collaboration & Contribution
+
+**📢 WildSight is currently an EXTREMELY EXPERIMENTAL project.**
+
+I welcome contributions from developers, geospatial analysts, and conservation experts, but please be aware that the codebase, algorithms, and data integration methods are under rapid development and subject to frequent, breaking changes.
+
+### How to Contribute:
+
+1.  **Fork the Repository:** Start by forking this repository to your own GitHub account.
+2.  **Report Issues:** Found a bug in the prioritization algorithm or the data processing pipeline? Please open a detailed issue describing the problem and the steps to reproduce it.
+3.  **Submit Pull Requests (PRs):** We are primarily looking for help in these areas:
+    * **Algorithm Refinement:** Improving the accuracy of the Prioritization Score calculation (Layer 2).
+    * **Data Integration:** Developing robust APIs to handle KWS/KFS data feeds.
+    * **Visualization:** Enhancing the front-end map display (Layer 3).
+4.  **Testing:** Help us validate the algorithm's output against real-world forest degradation data in Kenya.
+
+**Before submitting a PR, please open an issue first to discuss your proposed change.**
